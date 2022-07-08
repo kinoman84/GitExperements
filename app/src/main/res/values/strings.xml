@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Git Experements</string>
+    <string name="red_screen">Red Screen</string>
 </resources>
